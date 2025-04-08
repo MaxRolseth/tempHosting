@@ -389,7 +389,7 @@
 
 .carousel-header .carousel-inner .carousel-item {
     position: relative;
-    min-height: 100vh 
+    min-height: 500px; 
 }
 
 .carousel-header .carousel-inner .carousel-item img {

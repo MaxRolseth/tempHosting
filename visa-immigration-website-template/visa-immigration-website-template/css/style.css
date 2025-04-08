@@ -1,4 +1,6 @@
-
+.display-5 {
+    font-size: 2rem !important;
+}
 /*** Spinner Start ***/
 /*** Spinner ***/
 #spinner {
